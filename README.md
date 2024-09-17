@@ -1,4 +1,4 @@
-Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on a side project involving computer vision.
 - 🌱 I’m currently learning React.
